@@ -1,0 +1,50 @@
+ body { 
+    background: radial-gradient(rgba(189, 176, 176, 0.268) 0%, rgba(226, 224, 224, 0.712) 57%, rgb(40, 35, 35)); 
+    background-repeat: no-repeat;
+ }
+
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px; 
+    max-width: 700px;
+  }
+  h1,h2,h3 { 
+    margin-left: 30px;
+  }
+
+  .column {
+    flex: 50%;
+    flex-wrap: wrap;
+    padding: 0 4px;
+    margin-top: 8px;
+    vertical-align: center;
+  }
+
+  .column img {
+    margin-top: 8px;
+  }
+  .functions {
+    max-width: 700px;
+    margin-top: 20px;
+    margin-left: 30px;
+
+  }
+  .imgslide {
+    max-width: 200px;
+    max-height: 200px;
+  }
+  .imgtempext {
+    max-height: 50px;
+    width: 20px;
+  }
+  .imgtempint {
+    max-height: 50px;
+    width: 20px;
+  }
+
+
+  .imgmusic {
+    width: 300px;
+    height: 100px;
+  }
